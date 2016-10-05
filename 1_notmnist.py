@@ -110,7 +110,7 @@ test_folders = maybe_extract(test_filename)
 # Problem 1
 # ---------
 # 
-# Let's take a peek at some of the data to make sure it looks sensible. Each exemplar should be an image of a character A through J rendered in a different font. Display a sample of the images that we just downloaded. Hint: you can use the package IPython.display.
+# Let's take a peek at some of the data to make sure it looks sensible. Each exemplar should be an image of a character A through J rendered in a different font. Display a sample of the images that we just downloaded. Hint: you can use the package IPython.display. P1
 # 
 # ---
 
